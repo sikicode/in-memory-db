@@ -1,0 +1,10 @@
+redis>=4.5.0
+zookeeper>=0.8.0
+psycopg2-binary>=2.9.6
+postgresql>=0.0.1
+prometheus-client>=0.17.0
+flask>=2.3.0
+gunicorn>=21.0.0
+loguru>=0.7.0
+health-check>=3.4.1
+requests>=2.31.0

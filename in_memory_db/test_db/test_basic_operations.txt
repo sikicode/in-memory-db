@@ -1,0 +1,8 @@
+SET x 10
+GET x
+10
+GET y
+NULL
+UNSET x
+GET x
+NULL
